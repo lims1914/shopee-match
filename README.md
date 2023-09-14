@@ -14,11 +14,15 @@ This project is written in Pytorch.
 
 dataset.py: contains class about how to process image dataset, text dataset and clip model dataset.  
 
+
 model.py: the image model and text model. The image model contains effecientnet and nfnet.  
+
 
 get_embedding.py: extract image embedding and text embedding usimg models in model.py. extract embedding using clip model.  
 
+
 main.py: main function to get results.  
+
 
 utils: contains some useful functions.  
 
