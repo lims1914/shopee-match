@@ -6,7 +6,20 @@ we have five columns, the first and second column represent the id code and imag
 third column is a perceptual hash of the image. The fourth column is the description of the image, and the
 last column is the label. One of the most important features about this dataset is the difference between
 related products may be subtle while the image of these products may be wildly different. The data can be
-download from https://www.kaggle.com/c/shopee-product-matching/. The result is shown below
+download from https://www.kaggle.com/c/shopee-product-matching/. 
+
+
+
+This project is written in Pytorch.
+
+dataset.py: contains class about how to process image dataset, text dataset and clip model dataset.
+model.py: the image model and text model. The image model contains effecientnet and nfnet.
+get_embedding.py: extract image embedding and text embedding usimg models in model.py. extract embedding using clip model
+main.py: main function to get results
+utils: contains some useful functions
+
+
+The result is shown below
 
 
 
