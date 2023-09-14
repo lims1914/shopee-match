@@ -9,5 +9,11 @@ related products may be subtle while the image of these products may be wildly d
 download from https://www.kaggle.com/c/shopee-product-matching/
 
 The result is shown below
+
+
+
+
+
+
 ![image](https://github.com/lims1914/shopee-match/assets/40879123/715c8da5-26fb-4014-9c59-b1647b19df7d)
 
